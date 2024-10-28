@@ -1,4 +1,3 @@
-# awesome pubky
 A curated list of awesome Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications. 
 
 ### Official Resources
