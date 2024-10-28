@@ -1,0 +1,8 @@
+include: [".well-known"]
+remote_theme: aljazceru/hacker-gh-pages-theme
+plugins:
+- jekyll-remote-theme
+
+
+show_downloads: false
+google_analytics: G-CX14PCNWPJ
