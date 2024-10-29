@@ -5,8 +5,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Pubky.app](https://pubky.app/) - Official Pubky application platform
 
 ### Apps
-- [pubky explorer](https://github.com/pubky/pubky-explorer) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
-- [pubky notes](https://github.com/pubky/pubky-notes) - Note taking app using pubky protocol
+- [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
+- [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
 - 
 ### Libraries
@@ -22,6 +22,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkey introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction)
 
 ### Videos
-- [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF)
-- [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ)
-- [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ)
+- [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
+- [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ) - video explainer of pubky explorer
+- [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ) - video explainer of pubky notes 
