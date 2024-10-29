@@ -16,3 +16,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 ### Documentation
 - [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers)
 - [pubkey introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction)
+
+### Videos
+- [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF)
+- [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ)
+- [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ)
