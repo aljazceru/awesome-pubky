@@ -26,17 +26,18 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ) - video explainer of pubky explorer
 - [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ) - video explainer of pubky notes 
 - [pubky password manager](https://www.youtube.com/watch?v=5uUt2HHlawE) - video explainer of decentralized password storage
-- [pubky arcade](https://www.youtube.com/watch?v=hUzN68mNfP4) - turn-based games built on Pubky Core for data creation, reading, updating, and deletion.
+- [pubky arcade](https://www.youtube.com/watch?v=hUzN68mNfP4) - turn-based games built on Pubky Core for data creation, reading, updating, and deletion
+- [pubky ai social bot](https://www.youtube.com/watch?v=cbOPwbqOKHQ) - AI-generated content for Pubky App paid with Lightning Network
 
 ### Related Resources
 
 To explore other aspects of freedom tech ecosystem, check out these additional resource directories:
 
-- [DLC.wiki](https://www.dlc.wiki) - Everything you need to know about Discreet Log Contracts (DLCs), an innovative Bitcoin smart contract technology.
-- [Nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources.
-- [Ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies.
-- [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators.
-- 
+- [dlc.wiki](https://www.dlc.wiki) - Everything you need to know about Discreet Log Contracts (DLCs), an innovative Bitcoin smart contract technology
+- [nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources
+- [ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies
+- [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators
+
 ## Contributing
 
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
