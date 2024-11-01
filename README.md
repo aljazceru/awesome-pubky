@@ -18,8 +18,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pypkarr](https://github.com/aljazceru/pypkarr)![stars](https://img.shields.io/github/stars/aljazceru/pypkarr.svg?style=social) - unfinished python implementation of pkarr
 
 ### Documentation
-- [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers)
-- [pubkey introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction)
+- [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
+- [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
+- [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
 
 ### Videos
 - [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
