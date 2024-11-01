@@ -1,8 +1,8 @@
 A curated list of awesome Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications. 
 
 ### Official Resources
-- [Pubky.org](https://pubky.org/) - Official website and documentation for the Pubky project
-- [Pubky.app](https://pubky.app/) - Official Pubky application platform
+- [pubky.org](https://pubky.org/) - Official website and documentation for the Pubky project
+- [pubky.app](https://pubky.app/) - Official Pubky application platform
 
 ### Apps
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
@@ -33,14 +33,12 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 ### Related Resources
 
 To explore other aspects of freedom tech ecosystem, check out these additional resource directories:
-
 - [dlc.wiki](https://www.dlc.wiki) - Everything you need to know about Discreet Log Contracts (DLCs), an innovative Bitcoin smart contract technology
 - [nostr.net](https://www.nostr.net) - A complete guide to Nostr (Notes and Other Stuff Transmitted by Relays), including projects, implementations, and resources
 - [ungovernable.tech](https://ungovernable.tech) - A curated collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - A curated collection of essential tools, guides, and communities for Bitcoin Lightning Network node operators
 
-## Contributing
-
+### Contributing
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
 
 This resource guide is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
