@@ -17,6 +17,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-app-mobile-sdk](https://github.com/pubky/pubky-app-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-app-mobile-sdk.svg?style=social) - Mobile SDK for building Pubky applications
 - [pubky-core-mobile-sdk](https://github.com/pubky/pubky-core-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-core-mobile-sdk.svg?style=social) - Core mobile SDK for Pubky platform integration
 - [pypkarr](https://github.com/aljazceru/pypkarr)![stars](https://img.shields.io/github/stars/aljazceru/pypkarr.svg?style=social) - unfinished python implementation of pkarr
+- [react-native-pubky](https://github.com/pubky/react-native-pubky)![stars](https://img.shields.io/github/stars/pubky/react-native-pubky.svg?style=social) - React Native implementation of pubky-core](https://github.com/pubky/pubky-core)
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
