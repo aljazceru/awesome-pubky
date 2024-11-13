@@ -5,6 +5,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky.app](https://pubky.app/) - Official Pubky application platform
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
+### Services
+- [pubky.observer](https://pubky.observer) - live instance of [pubky explorer](https://github.com/pubky/pubky-explorer)
+
 ### Apps
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
