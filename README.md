@@ -13,6 +13,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
 
+### pkdns in the wild
+- [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
+
 ### Libraries
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
 - [pkarr](https://github.com/pubky/pkarr)![stars](https://img.shields.io/github/stars/pubky/pkarr.svg?style=social) - implementation of PKARR -  Public Key Addressable Resource Records
