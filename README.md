@@ -30,13 +30,14 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
 - [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
 
-### Videos
+### Videos / Podcasts
 - [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
 - [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ) - video explainer of pubky explorer
 - [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ) - video explainer of pubky notes 
 - [pubky password manager](https://www.youtube.com/watch?v=5uUt2HHlawE) - video explainer of decentralized password storage
 - [pubky arcade](https://www.youtube.com/watch?v=hUzN68mNfP4) - turn-based games built on Pubky Core for data creation, reading, updating, and deletion
 - [pubky ai social bot](https://www.youtube.com/watch?v=cbOPwbqOKHQ) - AI-generated content for Pubky App paid with Lightning Network
+- [Nuh @ Thank god for nostr](https://fountain.fm/episode/HXQpcOdQU9Tnxa9BQO2v) - Nuh is a lead developer on the pubky protocol at Synonym
 
 ### Related Resources
 
