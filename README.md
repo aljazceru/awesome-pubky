@@ -41,15 +41,16 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 
 ### Related Resources
 
-To explore other aspects of freedom tech ecosystem, check out these additional resource directories:
-- [nostr.net](https://www.nostr.net) - A complete guide to Nostr, including projects, implementations, developer tools and all other resources
+To explore other aspects of the Bitcoin and freedom tech ecosystem, check out these additional resource directories:
+- [nostr.net](https://www.nostr.net) - A complete guide to Nostr - projects, implementations, developer tools and all other resources
 - [liquidnetwork.wiki](https://liquidnetwork.wiki) - A curated list of Liquid Network resources, libraries, tools and applications
 - [pubky.tech](https://pubky.tech) - Pubky, an open protocol for censorship resistant web applications
 - [dlc.wiki](https://www.dlc.wiki) - Everything you need to know about Discreet Log Contracts
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
+- [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
 - 
 ### Contributing
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
 
-This resource guide is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
+This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
