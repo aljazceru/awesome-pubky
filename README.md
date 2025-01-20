@@ -12,6 +12,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
+  - [pkdns-vanity](https://github.com/jphastings/pkdns-vanity)![stars](https://img.shields.io/github/stars/jphastings/pkdns-vanity.svg?style=social) - A CLI tool that abuses your CPU to generate vanity PKDNS domains starting (or ending) with characters you choose.
 
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
