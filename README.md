@@ -12,8 +12,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
-  - [pkdns-vanity](https://github.com/jphastings/pkdns-vanity)![stars](https://img.shields.io/github/stars/jphastings/pkdns-vanity.svg?style=social) - A CLI tool that abuses your CPU to generate vanity PKDNS domains starting (or ending) with characters you choose.
+  - [pkdns-vanity](https://github.com/jphastings/pkdns-vanity)![stars](https://img.shields.io/github/stars/jphastings/pkdns-vanity.svg?style=social) - A CLI tool that abuses your CPU to generate vanity PKDNS domains starting (or ending) with characters you choose
 - [pubky-ring](https://github.com/pubky/pubky-ring)![stars](https://img.shields.io/github/stars/pubky/pubky-ring.svg?style=social) - Official companion keychain app for authentication and DNS resolution
+- [vanity-pubky](https://github.com/coreyphillips/vanity-pubky)![stars](https://img.shields.io/github/stars/coreyphillips/vanity-pubky.svg?style=social) -  A tool for generating pubkys with custom prefixes aka vanity keys
 
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
@@ -49,7 +50,7 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 - [pubky.tech](https://pubky.tech) - Pubky, an open protocol for censorship resistant web applications
 - [dlc.wiki](https://www.dlc.wiki) - Everything you need to know about Discreet Log Contracts
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
-- [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
+- [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
 - 
 ### Contributing
