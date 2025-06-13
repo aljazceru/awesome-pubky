@@ -10,6 +10,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 
 ### Apps
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
+- [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
