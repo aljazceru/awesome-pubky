@@ -18,7 +18,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-private-messenger](https://github.com/coreyphillips/pubky-private-messenger)![stars](https://img.shields.io/github/stars/coreyphillips/pubky-private-messenger.svg?style=social) - An end-to-end encrypted messaging application built on the Pubky protocol
 - [pubky-ring](https://github.com/pubky/pubky-ring)![stars](https://img.shields.io/github/stars/pubky/pubky-ring.svg?style=social) - Official companion keychain app for authentication and DNS resolution
 - [vanity-pubky](https://github.com/coreyphillips/vanity-pubky)![stars](https://img.shields.io/github/stars/coreyphillips/vanity-pubky.svg?style=social) -  A tool for generating pubkys with custom prefixes aka vanity keys
-
+- [tagky](https://github.com/PastaGringo/tagky)![stars](https://img.shields.io/github/stars/PastaGringo/tagky.svg?style=social) - Intelligent tagging assistant for the Pubky
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 
