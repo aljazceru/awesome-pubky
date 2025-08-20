@@ -1,8 +1,10 @@
 A curated list of awesome Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications. 
 
 ### Official Resources
-- [pubky.org](https://pubky.org/) - Official website and documentation for the Pubky project
-- [pubky.app](https://pubky.app/) - Official Pubky application platform
+- [pubky.org](https://pubky.org/) - Website and documentation for the Pubky project
+- [pubky.app](https://pubky.app/) - Pubky application platform
+- [pkdns.net](https://pkdns.net/) - PKDNS tools
+- [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
 ### Services
@@ -44,7 +46,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky password manager](https://www.youtube.com/watch?v=5uUt2HHlawE) - video explainer of decentralized password storage
 - [pubky arcade](https://www.youtube.com/watch?v=hUzN68mNfP4) - turn-based games built on Pubky Core for data creation, reading, updating, and deletion
 - [pubky ai social bot](https://www.youtube.com/watch?v=cbOPwbqOKHQ) - AI-generated content for Pubky App paid with Lightning Network
-- [Nuh @ Thank god for nostr](https://fountain.fm/episode/HXQpcOdQU9Tnxa9BQO2v) - Nuh is a lead developer on the pubky protocol at Synonym
+- [Nuh @ Thank god for nostr](https://fountain.fm/episode/HXQpcOdQU9Tnxa9BQO2v) - Nuh discusses PKARR and the Pubky protocol from Synonym
 
 ### Related Resources
 
