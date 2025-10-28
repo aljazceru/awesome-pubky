@@ -1,7 +1,8 @@
 A curated list of awesome Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications. 
 
 ### Official Resources
-- [pubky.org](https://pubky.org/) - Website and documentation for the Pubky project
+- [pubky.org](https://pubky.org/) - Website for the Pubky project
+- [docs.pubky.org](https://docs.pubky.org/) - Pubky Knowledge Base
 - [pubky.app](https://pubky.app/) - Pubky application platform
 - [pkdns.net](https://pkdns.net/) - PKDNS tools
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
