@@ -8,7 +8,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
 ### Services
-- [explorer.pubky.app](https://explorer.pubky.app) - live instance of [pubky explorer](https://github.com/pubky/pubky-explorer)
+#### Explorers
+- [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
+- [pubky.observer](https://pubky.observer) - ran by [aljaz](https://github.com/aljazceru/)
 
 ### Apps
 - [calky](https://github.com/gillohner/calky/)![stars](https://img.shields.io/github/stars/gillohner/calky.svg?style=social) - Calendar application based on existing calendar standards [calky.app](https://calky.app/)
