@@ -6,3 +6,5 @@ plugins:
 
 show_downloads: false
 google_analytics: G-CX14PCNWPJ
+plausible_script_url: https://analytics.cypherpunk.cloud/js/script.js
+plausible: pubky.tech
