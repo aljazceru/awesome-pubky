@@ -14,7 +14,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky.observer](https://pubky.observer) - ran by [aljaz](https://github.com/aljazceru/)
 
 ### Apps
-- [calky](https://github.com/gillohner/calky/)![stars](https://img.shields.io/github/stars/gillohner/calky.svg?style=social) - Calendar application based on existing calendar standards [calky.app](https://calky.app/)
+- [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
 - [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
