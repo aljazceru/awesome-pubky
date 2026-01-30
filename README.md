@@ -24,7 +24,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky/pkdns-digger](https://github.com/pubky/pkdns-digger) - PKDNS digging tool
 - [horologger/pkdns-startos](https://github.com/horologger/pkdns-startos) - Start9 Wrapper for PKDNS
 - [horologger/spacesdns](https://github.com/horologger/spacesdns) - Fork of PKDNS with added Spaces Protocol Name Resolution
-- [LithiumSource/PKDNS-RFCs](https://github.com/LithiumSource/PKDNS-RFCs) - The RFCs for PKDNS
 - [pubky-private-messenger](https://github.com/coreyphillips/pubky-private-messenger)![stars](https://img.shields.io/github/stars/coreyphillips/pubky-private-messenger.svg?style=social) - An end-to-end encrypted messaging application built on the Pubky protocol
 - [pubky-ring](https://github.com/pubky/pubky-ring)![stars](https://img.shields.io/github/stars/pubky/pubky-ring.svg?style=social) - Official companion keychain app for authentication and DNS resolution
 - [vanity-pubky](https://github.com/coreyphillips/vanity-pubky)![stars](https://img.shields.io/github/stars/coreyphillips/vanity-pubky.svg?style=social) -  A tool for generating pubkys with custom prefixes aka vanity keys
