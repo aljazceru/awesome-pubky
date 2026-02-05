@@ -8,6 +8,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
+### Infrastructure
+- [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
+
 ### Services
 #### Explorers
 - [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
@@ -28,6 +31,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-ring](https://github.com/pubky/pubky-ring)![stars](https://img.shields.io/github/stars/pubky/pubky-ring.svg?style=social) - Official companion keychain app for authentication and DNS resolution
 - [vanity-pubky](https://github.com/coreyphillips/vanity-pubky)![stars](https://img.shields.io/github/stars/coreyphillips/vanity-pubky.svg?style=social) -  A tool for generating pubkys with custom prefixes aka vanity keys
 - [tagky](https://github.com/PastaGringo/tagky)![stars](https://img.shields.io/github/stars/PastaGringo/tagky.svg?style=social) - Intelligent tagging assistant for the Pubky
+- [homeserver-dashboard](https://github.com/francismars/homeserver-dashboard)![stars](https://img.shields.io/github/stars/francismars/homeserver-dashboard.svg?style=social) - Web-based admin dashboard for managing Pubky homeservers. Built with Next.js, TypeScript, and Shadcn UI
+- [pubky-cli](https://github.com/pubky/pubky-cli)![stars](https://img.shields.io/github/stars/pubky/pubky-cli.svg?style=social) - A Rust-based command line companion for interacting with Pubky homeservers. Wraps admin and user-facing APIs
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 
@@ -39,7 +44,11 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-core-mobile-sdk](https://github.com/pubky/pubky-core-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-core-mobile-sdk.svg?style=social) - Core mobile SDK for Pubky platform integration
 - [pypkarr](https://github.com/aljazceru/pypkarr)![stars](https://img.shields.io/github/stars/aljazceru/pypkarr.svg?style=social) - unfinished python implementation of pkarr
 - [react-native-pubky](https://github.com/pubky/react-native-pubky)![stars](https://img.shields.io/github/stars/pubky/react-native-pubky.svg?style=social) - React Native implementation of [pubky-core](https://github.com/pubky/pubky-core)
-- [pubky-nextjs-template](https://github.com/PastaGringo/pubky-nextjs-template)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-nextjs-template.svg?style=social) - Next.js template with Tailwind CSS and Pubky integration 
+- [pubky-nextjs-template](https://github.com/PastaGringo/pubky-nextjs-template)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-nextjs-template.svg?style=social) - Next.js template with Tailwind CSS and Pubky integration
+- [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
+
+### Research & Proposals
+- [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
