@@ -8,9 +8,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
-### Infrastructure
-- [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
-
 ### Services
 #### Explorers
 - [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
@@ -36,8 +33,10 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 
-### Libraries
+### Libraries and infrastructure 
+
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
+- [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
 - [pkarr](https://github.com/pubky/pkarr)![stars](https://img.shields.io/github/stars/pubky/pkarr.svg?style=social) - implementation of PKARR -  Public Key Addressable Resource Records
 - [mainline](https://github.com/pubky/mainline)![stars](https://img.shields.io/github/stars/pubky/mainline.svg?style=social) - Simple, robust, BitTorrent's Mainline DHT implementation 
 - [pubky-app-mobile-sdk](https://github.com/pubky/pubky-app-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-app-mobile-sdk.svg?style=social) - Mobile SDK for building Pubky applications
