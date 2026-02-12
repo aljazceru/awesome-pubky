@@ -16,6 +16,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 ### Apps
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
+- [pubky-app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - Official Pubky web application for decentralized social networking [pubky.app](https://pubky.app/)
 - [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
@@ -45,11 +46,13 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [react-native-pubky](https://github.com/pubky/react-native-pubky)![stars](https://img.shields.io/github/stars/pubky/react-native-pubky.svg?style=social) - React Native implementation of [pubky-core](https://github.com/pubky/pubky-core)
 - [pubky-nextjs-template](https://github.com/PastaGringo/pubky-nextjs-template)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-nextjs-template.svg?style=social) - Next.js template with Tailwind CSS and Pubky integration
 - [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
+- [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support with torrent client, decentralized DNS via PKARR, cryptography with Nostringer, and NIP support
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 
 ### Documentation
+- [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base.svg?style=social) - Official Pubky knowledge base and documentation repository [docs.pubky.org](https://docs.pubky.org/)
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
 - [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
 - [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
