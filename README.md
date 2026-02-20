@@ -30,7 +30,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [tagky](https://github.com/PastaGringo/tagky)![stars](https://img.shields.io/github/stars/PastaGringo/tagky.svg?style=social) - Intelligent tagging assistant for the Pubky
 - [homeserver-dashboard](https://github.com/francismars/homeserver-dashboard)![stars](https://img.shields.io/github/stars/francismars/homeserver-dashboard.svg?style=social) - Web-based admin dashboard for managing Pubky homeservers. Built with Next.js, TypeScript, and Shadcn UI
 - [pubky-cli](https://github.com/pubky/pubky-cli)![stars](https://img.shields.io/github/stars/pubky/pubky-cli.svg?style=social) - A Rust-based command line companion for interacting with Pubky homeservers. Wraps admin and user-facing APIs
-- [pubky-canva](https://github.com/gillohner/pubky-canva)![stars](https://img.shields.io/github/stars/gillohner/pubky-canva.svg?style=social) - A collaborative pixel canvas (like Reddit r/place)
+- [pubky-canva](https://github.com/gillohner/pubky-canva)![stars](https://img.shields.io/github/stars/gillohner/pubky-canva.svg?style=social) - A collaborative pixel canvas (like Reddit r/place) [pubky-canva.riginode.xyz](https://pubky-canva.riginode.xyz/)
 
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
