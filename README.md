@@ -14,11 +14,14 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky.observer](https://pubky.observer) - ran by [aljaz](https://github.com/aljazceru/)
 
 ### Apps
+- [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App — a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
 - [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
+- [pubky-mint](https://github.com/ok300/pubky-mint)![stars](https://img.shields.io/github/stars/ok300/pubky-mint.svg?style=social) - A refreshing way to browse the Pubky ecosystem [ok300.github.io/pubky-mint](https://ok300.github.io/pubky-mint/)
+- [pubkytree](https://github.com/PastaGringo/pubkytree)![stars](https://img.shields.io/github/stars/PastaGringo/pubkytree.svg?style=social) - Decentralized link-in-bio powered by Pubky
 - [pkdns](https://github.com/pubky/pkdns)![stars](https://img.shields.io/github/stars/pubky/pkdns.svg?style=social) -  DNS server resolving pkarr self-sovereign domains
   - [pkdns-vanity](https://github.com/jphastings/pkdns-vanity)![stars](https://img.shields.io/github/stars/jphastings/pkdns-vanity.svg?style=social) - A CLI tool that abuses your CPU to generate vanity PKDNS domains starting (or ending) with characters you choose
 - [pubky/pkdns-digger](https://github.com/pubky/pkdns-digger) - PKDNS digging tool
@@ -31,6 +34,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [homeserver-dashboard](https://github.com/francismars/homeserver-dashboard)![stars](https://img.shields.io/github/stars/francismars/homeserver-dashboard.svg?style=social) - Web-based admin dashboard for managing Pubky homeservers. Built with Next.js, TypeScript, and Shadcn UI
 - [pubky-cli](https://github.com/pubky/pubky-cli)![stars](https://img.shields.io/github/stars/pubky/pubky-cli.svg?style=social) - A Rust-based command line companion for interacting with Pubky homeservers. Wraps admin and user-facing APIs
 - [pubky-canva](https://github.com/gillohner/pubky-canva)![stars](https://img.shields.io/github/stars/gillohner/pubky-canva.svg?style=social) - A collaborative pixel canvas (like Reddit r/place) [pubky-canva.riginode.xyz](https://pubky-canva.riginode.xyz/)
+- [passky](https://github.com/its-gaib/passky)![stars](https://img.shields.io/github/stars/its-gaib/passky.svg?style=social) - A CLI password manager for teams, built on Pubky
+- [pubky-app-cli](https://github.com/its-gaib/pubky-app-cli)![stars](https://img.shields.io/github/stars/its-gaib/pubky-app-cli.svg?style=social) - Post from your CLI to pubky.app
 
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
@@ -39,6 +44,14 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
 - [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
+- [pubky-app-specs](https://github.com/pubky/pubky-app-specs)![stars](https://img.shields.io/github/stars/pubky/pubky-app-specs.svg?style=social) - Pubky-app data schemas — the specification for how Pubky App structures its data
+- [pubky-locks](https://github.com/pubky/pubky-locks)![stars](https://img.shields.io/github/stars/pubky/pubky-locks.svg?style=social) - Unlock P2P commerce with Pubky
+- [pubky-crypto](https://github.com/pubky/pubky-crypto)![stars](https://img.shields.io/github/stars/pubky/pubky-crypto.svg?style=social) - Minimal crypto library for Pubky's needs
+- [pubky-node](https://github.com/BitcoinErrorLog/pubky-node)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-node.svg?style=social) - PKDNS and Mainline DHT tools & services
+- [pubky-docker](https://github.com/pubky/pubky-docker)![stars](https://img.shields.io/github/stars/pubky/pubky-docker.svg?style=social) - One-click Pubky deployments via Docker
+- [personal-homeserver](https://github.com/BitcoinErrorLog/personal-homeserver)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/personal-homeserver.svg?style=social) - SQLite-backed Pubky homeserver implementation
+- [pkdns-publisher](https://github.com/pubky/pkdns-publisher)![stars](https://img.shields.io/github/stars/pubky/pkdns-publisher.svg?style=social) - PKDNS publisher tool
+- [pkdns-resolver-extension](https://github.com/pubky/pkdns-resolver-extension)![stars](https://img.shields.io/github/stars/pubky/pkdns-resolver-extension.svg?style=social) - Browser extension for PKDNS resolution
 - [pkarr](https://github.com/pubky/pkarr)![stars](https://img.shields.io/github/stars/pubky/pkarr.svg?style=social) - implementation of PKARR -  Public Key Addressable Resource Records
 - [mainline](https://github.com/pubky/mainline)![stars](https://img.shields.io/github/stars/pubky/mainline.svg?style=social) - Simple, robust, BitTorrent's Mainline DHT implementation 
 - [pubky-app-mobile-sdk](https://github.com/pubky/pubky-app-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-app-mobile-sdk.svg?style=social) - Mobile SDK for building Pubky applications
@@ -50,6 +63,13 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
+
+### Developer Tools
+- [pubky-playground](https://github.com/BitcoinErrorLog/pubky-playground)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-playground.svg?style=social) - Playground for experimenting with Pubky components and protocols
+- [pubky-antfarm](https://github.com/tipogi/pubky-antfarm)![stars](https://img.shields.io/github/stars/tipogi/pubky-antfarm.svg?style=social) - Local testnet with simulated social activity for testing Pubky services
+- [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
+- [pubky-stack-skill](https://github.com/gillohner/pubky-stack-skill)![stars](https://img.shields.io/github/stars/gillohner/pubky-stack-skill.svg?style=social) - A Claude skill that teaches Claude how to build applications on the Pubky decentralized protocol stack
+- [pubky-workshop](https://github.com/pubky/workshop)![stars](https://img.shields.io/github/stars/pubky/workshop.svg?style=social) - Pubky Workshop repo for a live coding session building a JS app with pubky-sdk
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
