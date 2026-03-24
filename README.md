@@ -12,6 +12,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 #### Explorers
 - [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
 - [pubky.observer](https://pubky.observer) - ran by [aljaz](https://github.com/aljazceru/)
+- [pkarr-relay-prod](https://github.com/BitcoinErrorLog/pkarr-relay-prod) - Production deployment config for a public Pkarr relay. Docker Compose + Caddy + LMDB stack for bridging HTTP clients to the Mainline DHT
+- [pkarr-mirroring](https://github.com/reisepass/pkarr-mirroring) - Mirror of pkarr DNS records from the Mainline DHT, with public key, sequence number, signature, and DNS packet data
 
 ### Apps
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App — a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
@@ -36,6 +38,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-canva](https://github.com/gillohner/pubky-canva)![stars](https://img.shields.io/github/stars/gillohner/pubky-canva.svg?style=social) - A collaborative pixel canvas (like Reddit r/place) [pubky-canva.riginode.xyz](https://pubky-canva.riginode.xyz/)
 - [passky](https://github.com/its-gaib/passky)![stars](https://img.shields.io/github/stars/its-gaib/passky.svg?style=social) - A CLI password manager for teams, built on Pubky
 - [pubky-app-cli](https://github.com/its-gaib/pubky-app-cli)![stars](https://img.shields.io/github/stars/its-gaib/pubky-app-cli.svg?style=social) - Post from your CLI to pubky.app
+- [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
+- [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
 
 ### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
@@ -55,14 +59,18 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pkarr](https://github.com/pubky/pkarr)![stars](https://img.shields.io/github/stars/pubky/pkarr.svg?style=social) - implementation of PKARR -  Public Key Addressable Resource Records
 - [mainline](https://github.com/pubky/mainline)![stars](https://img.shields.io/github/stars/pubky/mainline.svg?style=social) - Simple, robust, BitTorrent's Mainline DHT implementation 
 - [pubky-app-mobile-sdk](https://github.com/pubky/pubky-app-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-app-mobile-sdk.svg?style=social) - Mobile SDK for building Pubky applications
-- [pubky-core-mobile-sdk](https://github.com/pubky/pubky-core-mobile-sdk)![stars](https://img.shields.io/github/stars/pubky/pubky-core-mobile-sdk.svg?style=social) - Core mobile SDK for Pubky platform integration
+- [pubky-core-ffi](https://github.com/pubky/pubky-core-ffi)![stars](https://img.shields.io/github/stars/pubky/pubky-core-ffi.svg?style=social) - Core mobile SDK for Pubky platform integration
 - [pypkarr](https://github.com/aljazceru/pypkarr)![stars](https://img.shields.io/github/stars/aljazceru/pypkarr.svg?style=social) - unfinished python implementation of pkarr
 - [react-native-pubky](https://github.com/pubky/react-native-pubky)![stars](https://img.shields.io/github/stars/pubky/react-native-pubky.svg?style=social) - React Native implementation of [pubky-core](https://github.com/pubky/pubky-core)
 - [pubky-nextjs-template](https://github.com/PastaGringo/pubky-nextjs-template)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-nextjs-template.svg?style=social) - Next.js template with Tailwind CSS and Pubky integration
 - [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
+- [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
+- [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
+- [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
+- [pubky-iCalendar-research](https://github.com/gillohner/pubky-iCalendar-research) - Research into integrating RFC Calendar specs with Pubky App Specs to create better calendar standards
 
 ### Developer Tools
 - [pubky-playground](https://github.com/BitcoinErrorLog/pubky-playground)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-playground.svg?style=social) - Playground for experimenting with Pubky components and protocols
