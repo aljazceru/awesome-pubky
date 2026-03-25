@@ -40,9 +40,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-app-cli](https://github.com/its-gaib/pubky-app-cli)![stars](https://img.shields.io/github/stars/its-gaib/pubky-app-cli.svg?style=social) - Post from your CLI to pubky.app
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
-
-### pkdns in the wild
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
+
 
 ### Libraries and infrastructure 
 
