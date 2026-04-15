@@ -66,6 +66,11 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 
+- [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base.svg?style=social) - Pubky knowledge base documentation
+- [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit
+- [homegate](https://github.com/pubky/homegate)![stars](https://img.shields.io/github/stars/pubky/homegate.svg?style=social) - Homegate service for Pubky
+- [http-relay](https://github.com/pubky/http-relay)![stars](https://img.shields.io/github/stars/pubky/http-relay.svg?style=social) - HTTP relay for Pubky
+- [pubky-noise](https://github.com/pubky/pubky-noise)![stars](https://img.shields.io/github/stars/pubky/pubky-noise.svg?style=social) - Snow noise patterns for Pubky
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
@@ -88,7 +93,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ) - video explainer of pubky explorer
 - [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ) - video explainer of pubky notes 
 - [pubky password manager](https://www.youtube.com/watch?v=5uUt2HHlawE) - video explainer of decentralized password storage
-- [pubky arcade](https://www.youtube.com/watch?v=hUzN68mNfP4) - turn-based games built on Pubky Core for data creation, reading, updating, and deletion
 - [pubky ai social bot](https://www.youtube.com/watch?v=cbOPwbqOKHQ) - AI-generated content for Pubky App paid with Lightning Network
 - [Nuh @ Thank god for nostr](https://fountain.fm/episode/HXQpcOdQU9Tnxa9BQO2v) - Nuh discusses PKARR and the Pubky protocol from Synonym
 
@@ -105,5 +109,3 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 
 ### Contributing
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
-
-This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
