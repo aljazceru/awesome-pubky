@@ -107,3 +107,9 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
 
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
+
+- **[pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)** - Description
+- **[pubky-core-client](https://github.com/pubky/pubky-core-client)** - Rust implementation of the client to connect to pubky homeserver
+- **[pubky-4u](https://github.com/pubky/pubky-4u)** - Sovereign recommendation engine. Dynamical curation of personalized feeds levera
+- **[pubme](https://github.com/pubky/pubme)** - Concept chat app
+- **[ai-rand](https://github.com/pubky/ai-rand)** - Description
