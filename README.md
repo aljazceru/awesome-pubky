@@ -107,3 +107,9 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
 
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
+
+- **[pkarr](https://github.com/pubky/pkarr)** - Public Key Addressable Resource Records (sovereign TLDs)
+- **[mainline](https://github.com/pubky/mainline)** - Simple, robust, BitTorrent's Mainline DHT implementation
+- **[pubky-core](https://github.com/pubky/pubky-core)** - An open protocol for per-public-key backends for censorship resistant web applic
+- **[pubky-beta](https://github.com/pubky/pubky-beta)** - Pubky App is a social-media-like experience built over Pubky Nexus. 
+- **[pkdns](https://github.com/pubky/pkdns)** - DNS server resolving pkarr self-sovereign domains
