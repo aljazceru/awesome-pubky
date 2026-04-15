@@ -41,6 +41,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
+- **http-relay** — Description
 
 
 ### Libraries and infrastructure 
@@ -82,6 +83,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
 - [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
 - [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
+- **homegate** — Description
+- **pubky-noise** — Snow noise patterns for Pubky
 
 ### Videos / Podcasts
 - [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
