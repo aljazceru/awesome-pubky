@@ -41,8 +41,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
-- [pubky-beta](https://github.com/pubky/pubky-beta)![stars](https://img.shields.io/github/stars/pubky/pubky-beta.svg?style=social) - Pubky App is a social-media-like experience built over Pubky Nexus
-- [pubky-4u](https://github.com/pubky/pubky-4u)![stars](https://img.shields.io/github/stars/pubky/pubky-4u.svg?style=social) - Sovereign recommendation engine with Web-of-Trust based algorithms
 - [pubme](https://github.com/pubky/pubme)![stars](https://img.shields.io/github/stars/pubky/pubme.svg?style=social) - Concept chat app
 - [pwpw](https://github.com/pubky/pwpw)![stars](https://img.shields.io/github/stars/pubky/pwpw.svg?style=social) - Pubky password management app
 - [arcade](https://github.com/pubky/arcade)![stars](https://img.shields.io/github/stars/pubky/arcade.svg?style=social) - Game center for games built on the Pubky Protocol
@@ -73,10 +71,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 
 - [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base.svg?style=social) - Pubky knowledge base documentation
-- [pubky-core-client](https://github.com/pubky/pubky-core-client)![stars](https://img.shields.io/github/stars/pubky/pubky-core-client.svg?style=social) - Rust client to connect to Pubky homeserver
 - [reqwest](https://github.com/pubky/reqwest)![stars](https://img.shields.io/github/stars/pubky/reqwest.svg?style=social) - Easy and powerful Rust HTTP Client
 - [hyper-util](https://github.com/pubky/hyper-util)![stars](https://img.shields.io/github/stars/pubky/hyper-util.svg?style=social) - Common utilities for hyper
-- [pubky-app-ffi](https://github.com/pubky/pubky-app-ffi)![stars](https://img.shields.io/github/stars/pubky/pubky-app-ffi.svg?style=social) - FFI bindings for Pubky app
 - [pkarr-churn](https://github.com/pubky/pkarr-churn)![stars](https://img.shields.io/github/stars/pubky/pkarr-churn.svg?style=social) - PKARR churn implementation
 - [pubky-tls-proxy](https://github.com/pubky/pubky-tls-proxy)![stars](https://img.shields.io/github/stars/pubky/pubky-tls-proxy.svg?style=social) - TLS proxy for Pubky
 - [pubky-ai-kit](https://github.com/pubky/pubky-ai-kit)![stars](https://img.shields.io/github/stars/pubky/pubky-ai-kit.svg?style=social) - AI kit for Pubky applications
