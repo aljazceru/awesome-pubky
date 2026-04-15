@@ -41,6 +41,12 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
+- [pubky-beta](https://github.com/pubky/pubky-beta)![stars](https://img.shields.io/github/stars/pubky/pubky-beta.svg?style=social) - Pubky App is a social-media-like experience built over Pubky Nexus
+- [pubky-4u](https://github.com/pubky/pubky-4u)![stars](https://img.shields.io/github/stars/pubky/pubky-4u.svg?style=social) - Sovereign recommendation engine with Web-of-Trust based algorithms
+- [pubme](https://github.com/pubky/pubme)![stars](https://img.shields.io/github/stars/pubky/pubme.svg?style=social) - Concept chat app
+- [pwpw](https://github.com/pubky/pwpw)![stars](https://img.shields.io/github/stars/pubky/pwpw.svg?style=social) - Pubky password management app
+- [arcade](https://github.com/pubky/arcade)![stars](https://img.shields.io/github/stars/pubky/arcade.svg?style=social) - Game center for games built on the Pubky Protocol
+- [pubky-ai-bot](https://github.com/pubky/pubky-ai-bot)![stars](https://img.shields.io/github/stars/pubky/pubky-ai-bot.svg?style=social) - AI bot for Pubky
 
 
 ### Libraries and infrastructure 
@@ -66,6 +72,22 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 
+- [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base.svg?style=social) - Pubky knowledge base documentation
+- [pubky-core-client](https://github.com/pubky/pubky-core-client)![stars](https://img.shields.io/github/stars/pubky/pubky-core-client.svg?style=social) - Rust client to connect to Pubky homeserver
+- [reqwest](https://github.com/pubky/reqwest)![stars](https://img.shields.io/github/stars/pubky/reqwest.svg?style=social) - Easy and powerful Rust HTTP Client
+- [hyper-util](https://github.com/pubky/hyper-util)![stars](https://img.shields.io/github/stars/pubky/hyper-util.svg?style=social) - Common utilities for hyper
+- [pubky-app-ffi](https://github.com/pubky/pubky-app-ffi)![stars](https://img.shields.io/github/stars/pubky/pubky-app-ffi.svg?style=social) - FFI bindings for Pubky app
+- [pkarr-churn](https://github.com/pubky/pkarr-churn)![stars](https://img.shields.io/github/stars/pubky/pkarr-churn.svg?style=social) - PKARR churn implementation
+- [pubky-tls-proxy](https://github.com/pubky/pubky-tls-proxy)![stars](https://img.shields.io/github/stars/pubky/pubky-tls-proxy.svg?style=social) - TLS proxy for Pubky
+- [pubky-ai-kit](https://github.com/pubky/pubky-ai-kit)![stars](https://img.shields.io/github/stars/pubky/pubky-ai-kit.svg?style=social) - AI kit for Pubky applications
+- [hackathon-2025](https://github.com/pubky/hackathon-2025)![stars](https://img.shields.io/github/stars/pubky/hackathon-2025.svg?style=social) - Pubky hackathon 2025 materials
+- [homegate-hackathon25](https://github.com/pubky/homegate-hackathon25)![stars](https://img.shields.io/github/stars/pubky/homegate-hackathon25.svg?style=social) - Homegate from hackathon 2025
+- [ci-workflows](https://github.com/pubky/ci-workflows)![stars](https://img.shields.io/github/stars/pubky/ci-workflows.svg?style=social) - CI workflows for Pubky projects
+- [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit
+- [homegate](https://github.com/pubky/homegate)![stars](https://img.shields.io/github/stars/pubky/homegate.svg?style=social) - Homegate service for Pubky
+- [http-relay](https://github.com/pubky/http-relay)![stars](https://img.shields.io/github/stars/pubky/http-relay.svg?style=social) - HTTP relay for Pubky
+- [pubky-noise](https://github.com/pubky/pubky-noise)![stars](https://img.shields.io/github/stars/pubky/pubky-noise.svg?style=social) - Snow noise patterns for Pubky
+- [ai-rand](https://github.com/pubky/ai-rand)![stars](https://img.shields.io/github/stars/pubky/ai-rand.svg?style=social) - AI-powered random number generation for Pubky
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
@@ -105,5 +127,3 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 
 ### Contributing
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
-
-This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
