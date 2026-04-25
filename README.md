@@ -107,3 +107,11 @@ To explore other aspects of the Bitcoin and freedom tech ecosystem, check out th
 If you'd like to add something to this list, please submit a [Pull Request on GitHub](https://github.com/aljazceru/awesome-pubky/).
 
 This directory is maintained by [aljaz](https://disobey.dev/contact/). Your contributions help keep this information up-to-date and valuable.
+
+## New Additions
+
+- [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base) (8⭐)
+- [homegate](https://github.com/pubky/homegate) (1⭐)
+- [http-relay](https://github.com/pubky/http-relay) (3⭐)
+- [pubky-noise](https://github.com/pubky/pubky-noise) (2⭐)
+- [pubky-ai-bot](https://github.com/pubky/pubky-ai-bot) (1⭐)
