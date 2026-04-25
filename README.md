@@ -8,6 +8,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
+- [pubky-knowledge-base](https://github.com/pubky/pubky-knowledge-base)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base.svg?style=social) - Pubky Knowledge Base — official documentation hub for Pubky
 ### Services
 #### Explorers
 - [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
@@ -15,6 +16,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pkarr-relay-prod](https://github.com/BitcoinErrorLog/pkarr-relay-prod) - Production deployment config for a public Pkarr relay. Docker Compose + Caddy + LMDB stack for bridging HTTP clients to the Mainline DHT
 - [pkarr-mirroring](https://github.com/reisepass/pkarr-mirroring) - Mirror of pkarr DNS records from the Mainline DHT, with public key, sequence number, signature, and DNS packet data
 
+- [homegate](https://github.com/pubky/homegate)![stars](https://img.shields.io/github/stars/pubky/homegate.svg?style=social) - Censorship resistant gateway application for Pubky
 ### Apps
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App — a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
@@ -66,6 +68,9 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 
+- [http-relay](https://github.com/pubky/http-relay)![stars](https://img.shields.io/github/stars/pubky/http-relay.svg?style=social) - HTTP relay for Pubky self-sovereign domains
+- [pubky-ai-bot](https://github.com/pubky/pubky-ai-bot)![stars](https://img.shields.io/github/stars/pubky/pubky-ai-bot.svg?style=social) - AI capabilities interface for Pubky protocol
+- [pubky-noise](https://github.com/pubky/pubky-noise)![stars](https://img.shields.io/github/stars/pubky/pubky-noise.svg?style=social) - Snow noise patterns for Pubky
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
