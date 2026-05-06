@@ -78,6 +78,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
 - [pubky-stack-skill](https://github.com/gillohner/pubky-stack-skill)![stars](https://img.shields.io/github/stars/gillohner/pubky-stack-skill.svg?style=social) - A Claude skill that teaches Claude how to build applications on the Pubky decentralized protocol stack
 - [pubky-workshop](https://github.com/pubky/workshop)![stars](https://img.shields.io/github/stars/pubky/workshop.svg?style=social) - Pubky Workshop repo for a live coding session building a JS app with pubky-sdk
+- [pubky-ai-kit](https://github.com/pubky/pubky-ai-kit)![stars](https://img.shields.io/github/stars/pubky/pubky-ai-kit.svg?style=social) - Context for vibecoding with Pubky. (2★)
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
