@@ -65,6 +65,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
+- [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
+- [enlace](https://github.com/paltaio/enlace)![stars](https://img.shields.io/github/stars/paltaio/enlace.svg?style=social) - Encrypted mailbox and latest-value slot fan-out for Rust applications. (0★)
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
@@ -77,6 +79,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
 - [pubky-stack-skill](https://github.com/gillohner/pubky-stack-skill)![stars](https://img.shields.io/github/stars/gillohner/pubky-stack-skill.svg?style=social) - A Claude skill that teaches Claude how to build applications on the Pubky decentralized protocol stack
 - [pubky-workshop](https://github.com/pubky/workshop)![stars](https://img.shields.io/github/stars/pubky/workshop.svg?style=social) - Pubky Workshop repo for a live coding session building a JS app with pubky-sdk
+- [pubky-knowledge-base-v2](https://github.com/pubky/pubky-knowledge-base-v2)![stars](https://img.shields.io/github/stars/pubky/pubky-knowledge-base-v2.svg?style=social) - Next gen Pubky knowledge base built on top of Astro Starlight (0★)
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
