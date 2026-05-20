@@ -65,7 +65,6 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
-- [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
 - [enlace](https://github.com/paltaio/enlace)![stars](https://img.shields.io/github/stars/paltaio/enlace.svg?style=social) - Encrypted mailbox and latest-value slot fan-out for Rust applications. (0★)
 
 ### Research & Proposals
