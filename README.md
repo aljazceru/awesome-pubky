@@ -66,6 +66,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 - [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
+- [enlace](https://github.com/paltaio/enlace)![stars](https://img.shields.io/github/stars/paltaio/enlace.svg?style=social) - Encrypted mailbox and latest-value slot fan-out for Rust applications. (0★)
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
