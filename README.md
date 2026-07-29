@@ -41,6 +41,8 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
+- [umbrel-app-store](https://github.com/pubky/umbrel-app-store)![stars](https://img.shields.io/github/stars/pubky/umbrel-app-store.svg?style=social) - Community Umbrel App Store hosting the Pubky Homeserver. Paste this repo URL into Umbrel's 'Add Community App Store' dialog to install.
+- [pubky-app-templates](https://github.com/pubky/pubky-app-templates)![stars](https://img.shields.io/github/stars/pubky/pubky-app-templates.svg?style=social) - A template for a simple Pubky app 
 
 
 ### Libraries and infrastructure 
@@ -65,6 +67,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubky-noise](https://github.com/BitcoinErrorLog/pubky-noise)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-noise.svg?style=social) - Direct client↔server Noise sessions for Pubky using `snow`. Provides XX and IK patterns for secure communications with PKARR integration
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
+- [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
@@ -77,6 +80,10 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
 - [pubky-stack-skill](https://github.com/gillohner/pubky-stack-skill)![stars](https://img.shields.io/github/stars/gillohner/pubky-stack-skill.svg?style=social) - A Claude skill that teaches Claude how to build applications on the Pubky decentralized protocol stack
 - [pubky-workshop](https://github.com/pubky/workshop)![stars](https://img.shields.io/github/stars/pubky/workshop.svg?style=social) - Pubky Workshop repo for a live coding session building a JS app with pubky-sdk
+- [agent-skills](https://github.com/pubky/agent-skills)![stars](https://img.shields.io/github/stars/pubky/agent-skills.svg?style=social) - Pubky agent skills for AI coding tools (Claude Code, Codex, Cursor)
+- [pubky-ring-simulator](https://github.com/pubky/pubky-ring-simulator)![stars](https://img.shields.io/github/stars/pubky/pubky-ring-simulator.svg?style=social) - Browser-based developer tooling for simulating Pubky Ring while developing against a local testnet
+- [agent-skills](https://github.com/pubky/agent-skills)![stars](https://img.shields.io/github/stars/pubky/agent-skills.svg?style=social) - Pubky agent skills for AI coding tools (Claude Code, Codex, Cursor)
+- [pubky-ring-simulator](https://github.com/pubky/pubky-ring-simulator)![stars](https://img.shields.io/github/stars/pubky/pubky-ring-simulator.svg?style=social) - Browser-based developer tooling for simulating Pubky Ring while developing against a local testnet
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
