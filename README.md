@@ -43,6 +43,10 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 - [umbrel-app-store](https://github.com/pubky/umbrel-app-store)![stars](https://img.shields.io/github/stars/pubky/umbrel-app-store.svg?style=social) - Community Umbrel App Store hosting the Pubky Homeserver. Paste this repo URL into Umbrel's 'Add Community App Store' dialog to install.
 - [pubky-app-templates](https://github.com/pubky/pubky-app-templates)![stars](https://img.shields.io/github/stars/pubky/pubky-app-templates.svg?style=social) - A template for a simple Pubky app 
+- [pubky-homeserver](https://github.com/pubky/pubky-homeserver)![stars](https://img.shields.io/github/stars/pubky/pubky-homeserver.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications.
+- [pubky-homeserver](https://github.com/pubky/pubky-homeserver)![stars](https://img.shields.io/github/stars/pubky/pubky-homeserver.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications.
+- [pubky-homeserver](https://github.com/pubky/pubky-homeserver)![stars](https://img.shields.io/github/stars/pubky/pubky-homeserver.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications.
+- [pubky-homeserver](https://github.com/pubky/pubky-homeserver)![stars](https://img.shields.io/github/stars/pubky/pubky-homeserver.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications.
 
 
 ### Libraries and infrastructure 
