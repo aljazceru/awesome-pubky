@@ -43,6 +43,7 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 - [umbrel-app-store](https://github.com/pubky/umbrel-app-store)![stars](https://img.shields.io/github/stars/pubky/umbrel-app-store.svg?style=social) - Community Umbrel App Store hosting the Pubky Homeserver. Paste this repo URL into Umbrel's 'Add Community App Store' dialog to install.
 - [pubky-app-templates](https://github.com/pubky/pubky-app-templates)![stars](https://img.shields.io/github/stars/pubky/pubky-app-templates.svg?style=social) - A template for a simple Pubky app 
+- [timechain-wiki](https://github.com/RadVladdy/timechain-wiki)![stars](https://img.shields.io/github/stars/RadVladdy/timechain-wiki.svg?style=social) - A media-neutral Bitcoin encyclopedia with reader annotation via your own Nostr or Pubky account. Live at timechain.wiki
 
 
 ### Libraries and infrastructure 
