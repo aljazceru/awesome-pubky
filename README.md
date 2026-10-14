@@ -6,7 +6,7 @@ Pubky is an open protocol that pairs cryptographic keypairs (used as identities)
 
 ## Where to start
 
-Start with [pubky.org](https://pubky.org/) for the canonical project overview, then [docs.pubky.org](https://docs.pubky.org/) for the protocol specification and developer guides. [Pubky.app](https://pubky.app/) is a working app stack you can sign in to today. If you're curious about the cryptographic identity model specifically, [PKDNS](https://pkdns.net/) is the naming layer that maps human-readable names to keys.
+Start with [pubky.org](https://pubky.org/) for the canonical project overview, then [docs.pubky.org](https://docs.pubky.org/) for the protocol specification and developer guides. [Pubky.app](https://pubky.app/) is a working app stack you can sign in to today. If you're curious about how pubky keys map to DNS, [PKDNS](https://pkdns.net/) resolves DNS records published under public keys, so a pubky works as a domain name.
 
 This list tracks libraries, SDKs, apps, and tooling built around the protocol — both official and community.
 
