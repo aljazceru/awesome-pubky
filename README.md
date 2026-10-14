@@ -11,6 +11,7 @@ Start with [pubky.org](https://pubky.org/) for the canonical project overview, t
 This list tracks libraries, SDKs, apps, and tooling built around the protocol â€” both official and community.
 
 ### Official Resources
+_Last verified: 2026-10-14._
 - [pubky.org](https://pubky.org/) - Website for the Pubky project
 - [docs.pubky.org](https://docs.pubky.org/) - Pubky Knowledge Base
 - [pubky.app](https://pubky.app/) - Pubky application platform
@@ -19,6 +20,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
 
 ### Services
+_Last verified: 2026-10-14._
 #### Explorers
 - [explorer.pubky.app](https://explorer.pubky.app) - official pubky explorer ran by pubky team
 - [pubky.observer](https://pubky.observer) - ran by [aljaz](https://github.com/aljazceru/)
@@ -26,6 +28,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pkarr-mirroring](https://github.com/reisepass/pkarr-mirroring) - Mirror of pkarr DNS records from the Mainline DHT, with public key, sequence number, signature, and DNS packet data
 
 ### Apps
+_Last verified: 2026-10-14._
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App â€” a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
@@ -58,6 +61,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 
 
 ### Libraries and infrastructure 
+_Last verified: 2026-10-14._
 
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
 - [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
@@ -82,11 +86,13 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
 
 ### Research & Proposals
+_Last verified: 2026-10-14._
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
 - [pubky-iCalendar-research](https://github.com/gillohner/pubky-iCalendar-research) - Research into integrating RFC Calendar specs with Pubky App Specs to create better calendar standards
 
 ### Developer Tools
+_Last verified: 2026-10-14._
 - [pubky-playground](https://github.com/BitcoinErrorLog/pubky-playground)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-playground.svg?style=social) - Playground for experimenting with Pubky components and protocols
 - [pubky-antfarm](https://github.com/tipogi/pubky-antfarm)![stars](https://img.shields.io/github/stars/tipogi/pubky-antfarm.svg?style=social) - Local testnet with simulated social activity for testing Pubky services
 - [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
@@ -98,11 +104,13 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 
 
 ### Documentation
+_Last verified: 2026-10-14._
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
 - [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
 - [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
 
 ### Videos / Podcasts
+_Last verified: 2026-10-14._
 - [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
 - [pubky explorer](https://youtu.be/qESmEhDNl4E?si=AwxaIT--uAuF9NvJ) - video explainer of pubky explorer
 - [pubky notes](https://youtu.be/dXsFe3jmtHE?si=JjXkiicirao7K6YJ) - video explainer of pubky notes 
@@ -112,6 +120,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [Nuh @ Thank god for nostr](https://fountain.fm/episode/HXQpcOdQU9Tnxa9BQO2v) - Nuh discusses PKARR and the Pubky protocol from Synonym
 
 ### Related Resources
+_Last verified: 2026-10-14._
 
 To explore other aspects of the Bitcoin and freedom tech ecosystem, check out these additional resource directories:
 - [nostr.net](https://www.nostr.net) - A complete guide to Nostr - projects, implementations, developer tools and all other resources
