@@ -5,7 +5,7 @@ plugins:
 - jekyll-seo-tag
 
 title: Pubky Directory
-description: A curated list of Pubky resources, libraries, SDKs, apps, developer tools, and services. Pubky is an open protocol for censorship-resistant web applications.
+description: "A curated list of Pubky resources, libraries, SDKs, apps, developer tools, and services. Pubky is an open protocol for censorship-resistant web applications."
 author: aljaz
 lang: en
 baseurl: ""
