@@ -2,11 +2,11 @@ A curated list of awesome Pubky resources, libraries, tools and applications. Pu
 
 ## What is Pubky?
 
-Pubky is an open protocol that pairs cryptographic keypairs (used as identities) with each user's own backend storage. Instead of relying on a single platform to host your data and mediate access, Pubky lets users own their public-key identity, choose where their data is stored, and selectively grant access to applications — while staying censorship-resistant by default.
+Pubky is an open protocol that pairs cryptographic keypairs (used as identities) with user-controlled home servers. Users own their identity and choose where their data lives, instead of relying on a single platform.
 
 ## Where to start
 
-Start with [pubky.org](https://pubky.org/) for the canonical project overview, then [docs.pubky.org](https://docs.pubky.org/) for the protocol specification and developer guides. [Pubky.app](https://app.pubky.org/) is a working app stack you can sign in to today. If you're curious about the cryptographic identity model specifically, [PKDNS](https://pkdns.net/) is the naming layer that maps human-readable names to keys.
+Start with [pubky.org](https://pubky.org/) for the canonical project overview, then [docs.pubky.org](https://docs.pubky.org/) for the protocol specification and developer guides. [Pubky.app](https://pubky.app/) is a working app stack you can sign in to today. If you're curious about the cryptographic identity model specifically, [PKDNS](https://pkdns.net/) is the naming layer that maps human-readable names to keys.
 
 This list tracks libraries, SDKs, apps, and tooling built around the protocol — both official and community.
 
