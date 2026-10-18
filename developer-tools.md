@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Developer Tools - Pubky Directory
+permalink: /developer-tools/
 ---
 
 > Back to the [full directory](./README.md) — pubky.tech

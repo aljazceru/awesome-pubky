@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Apps - Pubky Directory
+permalink: /apps/
 ---
 
 > Back to the [full directory](./README.md) — pubky.tech

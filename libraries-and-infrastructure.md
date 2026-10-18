@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Libraries and infrastructure - Pubky Directory
+permalink: /libraries-and-infrastructure/
 ---
 
 > Back to the [full directory](./README.md) — pubky.tech

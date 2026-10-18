@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research &amp; Proposals - Pubky Directory
+permalink: /research-proposals/
 ---
 
 > Back to the [full directory](./README.md) — pubky.tech
