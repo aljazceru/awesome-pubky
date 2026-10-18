@@ -25,7 +25,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pkarr-relay-prod](https://github.com/BitcoinErrorLog/pkarr-relay-prod) - Production deployment config for a public Pkarr relay. Docker Compose + Caddy + LMDB stack for bridging HTTP clients to the Mainline DHT
 - [pkarr-mirroring](https://github.com/reisepass/pkarr-mirroring) - Mirror of pkarr DNS records from the Mainline DHT, with public key, sequence number, signature, and DNS packet data
 
-### Apps
+### Apps â€” [dedicated page](./apps.md)
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App â€” a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
@@ -62,7 +62,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pubky-rooms](https://github.com/secondl1ght/pubky-rooms)![stars](https://img.shields.io/github/stars/secondl1ght/pubky-rooms.svg?style=social) - Sovereign live chat rooms on the Pubky protocol, built with Phoenix LiveView
 
 
-### Libraries and infrastructure 
+### Libraries and infrastructure â€” [dedicated page](./libraries-and-infrastructure.md)
 
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
 - [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
@@ -86,12 +86,12 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 - [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
 
-### Research & Proposals
+### Research & Proposals â€” [dedicated page](./research-proposals.md)
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
 - [Self-Sovereign AI](https://github.com/AI-Robotic-Labs/Self-Sovereign-AI) - A decentralized framework for autonomous, privacy-preserving AI using DIDs, Nostr, Pubky, and federated learning
 - [pubky-iCalendar-research](https://github.com/gillohner/pubky-iCalendar-research) - Research into integrating RFC Calendar specs with Pubky App Specs to create better calendar standards
 
-### Developer Tools
+### Developer Tools â€” [dedicated page](./developer-tools.md)
 - [pubky-playground](https://github.com/BitcoinErrorLog/pubky-playground)![stars](https://img.shields.io/github/stars/BitcoinErrorLog/pubky-playground.svg?style=social) - Playground for experimenting with Pubky components and protocols
 - [pubky-antfarm](https://github.com/tipogi/pubky-antfarm)![stars](https://img.shields.io/github/stars/tipogi/pubky-antfarm.svg?style=social) - Local testnet with simulated social activity for testing Pubky services
 - [pubkytecture](https://github.com/gcomte/pubkytecture)![stars](https://img.shields.io/github/stars/gcomte/pubkytecture.svg?style=social) - Interactive learning tool to understand Pubky architecture
