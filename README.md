@@ -66,6 +66,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 
 - [pubky-core](https://github.com/pubky/pubky-core)![stars](https://img.shields.io/github/stars/pubky/pubky-core.svg?style=social) - An open protocol for per-public-key backends for censorship resistant web applications
 - [pubky-nexus](https://github.com/pubky/pubky-nexus)![stars](https://img.shields.io/github/stars/pubky/pubky-nexus.svg?style=social) - The Nexus between Pubky homeservers and Pubky-App social features. Central bridge providing REST API for social graph aggregation, full-content indexing, and high-performance queries
+- [marketplace-nexus](https://github.com/pubky/marketplace-nexus)![stars](https://img.shields.io/github/stars/pubky/marketplace-nexus.svg?style=social) - Indexer for Pubky Marketplace shops, listings, auctions, and reviews on pubky-nexus
 - [pubky-app-specs](https://github.com/pubky/pubky-app-specs)![stars](https://img.shields.io/github/stars/pubky/pubky-app-specs.svg?style=social) - Pubky-app data schemas â€” the specification for how Pubky App structures its data
 - [pubky-locks](https://github.com/pubky/pubky-locks)![stars](https://img.shields.io/github/stars/pubky/pubky-locks.svg?style=social) - Unlock P2P commerce with Pubky
 - [pubky-crypto](https://github.com/pubky/pubky-crypto)![stars](https://img.shields.io/github/stars/pubky/pubky-crypto.svg?style=social) - Minimal crypto library for Pubky's needs
@@ -85,6 +86,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [Gtool](https://github.com/emanuelbertey/Gtool)![stars](https://img.shields.io/github/stars/emanuelbertey/Gtool.svg?style=social) - Godot game engine extension adding P2P support, decentralized DNS via PKARR, Nostr NIP support, and ring encryption
 - [iroh-discovery-cloudflare-worker](https://github.com/n0-computer/iroh-discovery-cloudflare-worker)![stars](https://img.shields.io/github/stars/n0-computer/iroh-discovery-cloudflare-worker.svg?style=social) - A Rust Cloudflare Worker that implements the pkarr relay format, by the n0/iroh team
 - [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
+- [paykit-server](https://github.com/pubky/paykit-server)![stars](https://img.shields.io/github/stars/pubky/paykit-server.svg?style=social) - Receiver-side Paykit service for Locks invoices and Bitcoin settlement.
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
