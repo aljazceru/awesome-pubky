@@ -88,6 +88,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [paykit-rs](https://github.com/pubky/paykit-rs)![stars](https://img.shields.io/github/stars/pubky/paykit-rs.svg?style=social) - Rust implementation of Paykit, a meta payment protocol using Pubky Core/PKARR for payment method discovery.
 - [paykit-server](https://github.com/pubky/paykit-server)![stars](https://img.shields.io/github/stars/pubky/paykit-server.svg?style=social) - Receiver-side Paykit service for Locks invoices and Bitcoin settlement.
 - [pubky-oidc](https://github.com/PastaGringo/pubky-oidc)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-oidc.svg?style=social) - OpenID Connect provider whose only sign-in method is Pubky Ring.
+- [pubky-market-specs](https://github.com/pubky/pubky-market-specs)![stars](https://img.shields.io/github/stars/pubky/pubky-market-specs.svg?style=social) - Rust crate and npm package that validates Pubky Market shop, listing, drop, and receipt records.
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
