@@ -17,7 +17,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pkdns.net](https://pkdns.net/) - PKDNS tools
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
 - [Pubky - The Next Web](https://medium.com/pubky/pubky-the-next-web-3287b35408f1) - Article by John Carvalho 
-- [paykit-landing-page](https://github.com/pubky/paykit-landing-page) - Landing page for Paykit, the payment discovery and exchange protocol built on Pubky.
+- [Paykit](https://paykit.to/) - Payment discovery and exchange protocol built on Pubky
 
 ### Services
 #### Explorers
