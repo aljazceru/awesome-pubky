@@ -30,7 +30,6 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App â€” a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
-- [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pubky-mint](https://github.com/ok300/pubky-mint)![stars](https://img.shields.io/github/stars/ok300/pubky-mint.svg?style=social) - A refreshing way to browse the Pubky ecosystem [ok300.github.io/pubky-mint](https://ok300.github.io/pubky-mint/)
@@ -39,6 +38,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
   - [pkdns-vanity](https://github.com/jphastings/pkdns-vanity)![stars](https://img.shields.io/github/stars/jphastings/pkdns-vanity.svg?style=social) - A CLI tool that abuses your CPU to generate vanity PKDNS domains starting (or ending) with characters you choose
 - [pubky/pkdns-digger](https://github.com/pubky/pkdns-digger) - PKDNS digging tool
 - [horologger/pkdns-startos](https://github.com/horologger/pkdns-startos) - Start9 Wrapper for PKDNS
+- [paz](https://pazstr.codeberg.page/) - nostr micro-blogging application with pkarr support 
 - [horologger/spacesdns](https://github.com/horologger/spacesdns) - Fork of PKDNS with added Spaces Protocol Name Resolution
 - [pubky-private-messenger](https://github.com/coreyphillips/pubky-private-messenger)![stars](https://img.shields.io/github/stars/coreyphillips/pubky-private-messenger.svg?style=social) - An end-to-end encrypted messaging application built on the Pubky protocol
 - [pubky-ring](https://github.com/pubky/pubky-ring)![stars](https://img.shields.io/github/stars/pubky/pubky-ring.svg?style=social) - Official companion keychain app for authentication and DNS resolution
