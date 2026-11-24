@@ -1,3 +1,8 @@
+---
+title: "Pubky Resources, Apps & Tools"
+description: "Curated Pubky resources: official docs, SDKs, libraries, apps, PKDNS, and developer tools for the censorship-resistant web protocol."
+---
+
 A curated list of awesome Pubky resources, libraries, tools and applications. Pubky is an open protocol for per-public-key backends for censorship resistant web applications. 
 
 ## What is Pubky?
