@@ -61,6 +61,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pubky-marketplace-service](https://github.com/pubky/pubky-marketplace-service)![stars](https://img.shields.io/github/stars/pubky/pubky-marketplace-service.svg?style=social) - Pubky App marketplace service
 - [pubky-chat](https://github.com/pubky/pubky-chat)![stars](https://img.shields.io/github/stars/pubky/pubky-chat.svg?style=social) - Pubky Encrypted-Link chat kinds spec and library suite
 - [pubky-rooms](https://github.com/secondl1ght/pubky-rooms)![stars](https://img.shields.io/github/stars/secondl1ght/pubky-rooms.svg?style=social) - Sovereign live chat rooms on the Pubky protocol, built with Phoenix LiveView
+- [paykit-wdk-wallet](https://github.com/pubky/paykit-wdk-wallet)![stars](https://img.shields.io/github/stars/pubky/paykit-wdk-wallet.svg?style=social) - React Native example wallet combining Tether WDK and Pubky Paykit (testnet reference): public and private payments, payment requests with proofs, allowances and backups
 
 
 ### Libraries and infrastructure 
@@ -90,6 +91,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [paykit-server](https://github.com/pubky/paykit-server)![stars](https://img.shields.io/github/stars/pubky/paykit-server.svg?style=social) - Receiver-side Paykit service for Locks invoices and Bitcoin settlement.
 - [pubky-oidc](https://github.com/PastaGringo/pubky-oidc)![stars](https://img.shields.io/github/stars/PastaGringo/pubky-oidc.svg?style=social) - OpenID Connect provider whose only sign-in method is Pubky Ring.
 - [pubky-market-specs](https://github.com/pubky/pubky-market-specs)![stars](https://img.shields.io/github/stars/pubky/pubky-market-specs.svg?style=social) - Rust crate and npm package that validates Pubky Market shop, listing, drop, and receipt records.
+- [pubky-switch](https://github.com/pubky/pubky-switch)![stars](https://img.shields.io/github/stars/pubky/pubky-switch.svg?style=social) - Messaging and coordination service for Pubky identities: hosts a sealed, ordered inbox per identity with signed claims, admission control and identity management
 
 ### Research & Proposals
 - [atomicity](https://github.com/pubky/atomicity)![stars](https://img.shields.io/github/stars/pubky/atomicity.svg?style=social) - A peer-to-peer mutual credit system proposal combining Paykit, Pkarr, and Offset-like mutual credit for open credit issuance in any denomination
