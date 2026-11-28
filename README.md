@@ -6,13 +6,12 @@ Pubky is an open protocol that pairs cryptographic keypairs (used as identities)
 
 ## Where to start
 
-Start with [pubky.org](https://pubky.org/) for the canonical project overview, then [docs.pubky.org](https://docs.pubky.org/) for the protocol specification and developer guides. [Pubky.app](https://pubky.app/) is a working app stack you can sign in to today. If you're curious about how pubky keys map to DNS, [PKDNS](https://pkdns.net/) resolves DNS records published under public keys, so a pubky works as a domain name.
+Start with [pubky.org](https://pubky.org/) for the canonical project overview, protocol documentation and developer guides. [Pubky.app](https://pubky.app/) is a working app stack you can sign in to today. If you're curious about how pubky keys map to DNS, [PKDNS](https://pkdns.net/) resolves DNS records published under public keys, so a pubky works as a domain name.
 
 This list tracks libraries, SDKs, apps, and tooling built around the protocol â€” both official and community.
 
 ### Official Resources
 - [pubky.org](https://pubky.org/) - Website for the Pubky project
-- [docs.pubky.org](https://docs.pubky.org/) - Pubky Knowledge Base
 - [pubky.app](https://pubky.app/) - Pubky application platform
 - [pkdns.net](https://pkdns.net/) - PKDNS tools
 - [pubkyring.app](https://pubkyring.app/) - Pubky mobile keychain app
@@ -30,7 +29,6 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pubky app](https://github.com/pubky/pubky-app)![stars](https://img.shields.io/github/stars/pubky/pubky-app.svg?style=social) - The official Pubky App â€” a social-media-like experience built on Pubky Nexus [pubky.app](https://pubky.app)
 - [eventky](https://github.com/gillohner/eventky/)![stars](https://img.shields.io/github/stars/gillohner/eventky.svg?style=social) - Event and Calendaring application built around Pubky-App-Specs and existing RFC Specifications [eventky.app](https://eventky.app/)
 - [pak](https://github.com/aljazceru/pak)![stars](https://img.shields.io/github/stars/aljazceru/pak.svg?style=social) - pak (Pubky Army Knife) is a cli tool for interacting with Pubky ecosystem
-- [paz](https://pazstr.codeberg.page/features.html) - nostr micro-blogging application with pkarr support 
 - [pubky explorer](https://github.com/pubky/pubky-explorer)![stars](https://img.shields.io/github/stars/pubky/pubky-explorer.svg?style=social) - A tool that lets you navigate files and directories tied to a Pubky identity, independent of any hosting provider
 - [pubky notes](https://github.com/pubky/pubky-notes)![stars](https://img.shields.io/github/stars/pubky/pubky-notes.svg?style=social) - Note taking app using pubky protocol
 - [pubky-mint](https://github.com/ok300/pubky-mint)![stars](https://img.shields.io/github/stars/ok300/pubky-mint.svg?style=social) - A refreshing way to browse the Pubky ecosystem [ok300.github.io/pubky-mint](https://ok300.github.io/pubky-mint/)
@@ -51,6 +49,7 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 - [pubky-app-cli](https://github.com/its-gaib/pubky-app-cli)![stars](https://img.shields.io/github/stars/its-gaib/pubky-app-cli.svg?style=social) - Post from your CLI to pubky.app
 - [Ghostly](https://github.com/MiguelMedeiros/ghostly)![stars](https://img.shields.io/github/stars/MiguelMedeiros/ghostly.svg?style=social) - Encrypted ephemeral chat over DHT using PKARR. No servers, no accounts, messages vanish. Cross-platform desktop app
 - [Decentralized pkarr chat POC](https://github.com/dev-dhanushkumar/Decentralized-pkarr-chat-POC) - A decentralized P2P chat application built with Rust and PKARR, enabling censorship-resistant communication
+- [paz](https://pazstr.codeberg.page/) - nostr micro-blogging application with pkarr support 
 - [ssnrelay](https://gitlab.com/cipres/ssnrelay) - self soverign nostr relay using [pkdns](https://github.com/pubky/pkdns), automatically publishing a [pkarr](https://github.com/pubky/pkarr) domain
 - [umbrel-app-store](https://github.com/pubky/umbrel-app-store)![stars](https://img.shields.io/github/stars/pubky/umbrel-app-store.svg?style=social) - Community Umbrel App Store hosting the Pubky Homeserver. Paste this repo URL into Umbrel's 'Add Community App Store' dialog to install.
 - [pubky-app-templates](https://github.com/pubky/pubky-app-templates)![stars](https://img.shields.io/github/stars/pubky/pubky-app-templates.svg?style=social) - A template for a simple Pubky app 
@@ -112,8 +111,8 @@ This list tracks libraries, SDKs, apps, and tooling built around the protocol â€
 
 ### Documentation
 - [pkarr design](https://github.com/pubky/pkarr/tree/main/design) - pkarr protocol specification and design
-- [homeservers](https://docs.pubky.org/Explore/Pubky-Core/Homeservers) - homeservers documentation
-- [pubky introduction](https://docs.pubky.org/Explore/Pubky-Core/Introduction) - introduction to what pubky is 
+- [homeservers](https://pubky.org/homeserver/) - homeservers documentation
+- [pubky introduction](https://pubky.org/overview/) - introduction to what pubky is 
 
 ### Videos / Podcasts
 - [pkdns](https://youtu.be/GJHMlyKUoWY?si=7HCKEpLL9HONakQF) - video explainer of pkdns 
